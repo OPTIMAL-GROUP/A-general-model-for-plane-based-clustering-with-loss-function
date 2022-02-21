@@ -13,3 +13,6 @@ Focus to learn more
 Submission history
 From: Zhen Wang [view email]
 [v1] Sat, 26 Jan 2019 08:32:48 UTC (151 KB)
+
+
+[arXiv:1901.09178](https://github.com/wangzhenbl/A-general-model-for-plane-based-clustering-with-loss-function/edit/main/README.md)
