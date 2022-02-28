@@ -1,0 +1,19 @@
+###function [Y,wt]= RFDPC_DC_iY(X,iY,g1,g2,c1,c2) 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% RFDPC: 
+%   
+% [Y,wt]= RFDPC_DC_iY(X,iY,g1,g2,c1,c2)
+% 
+% Input:
+%    X: Data matrix. (nolinear version is obtained by K(X,X))
+%    iY: First initial labels of X (can be given randomly or by NN-graph).
+%	then, it would be updated in iteration.
+%    Parameters - g1,g2,c1,c2 
+%              
+% Output:
+%     Y: The prediction of X in this iteration.
+%    wt: the cluster center planes
+%
+%    Written by Zhen Wang  (wangzhen188@126.com.)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
